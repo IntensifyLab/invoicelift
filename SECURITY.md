@@ -6,3 +6,5 @@ If you discover a vulnerability, please report it responsibly:
 2. Contact the repository maintainers through the channel listed in the org profile (or open a **private** security advisory if enabled).
 
 Include: affected component (`contract/`, `frontend`, `backend`), reproduction steps, and impact assessment.
+
+<!-- Contribution check by alexdev99 at 2024-11-01T08:57:55 -->
