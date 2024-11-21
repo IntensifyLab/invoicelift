@@ -26,3 +26,5 @@ impl InvoiceRegistry {
         1
     }
 }
+
+// Contribution check by nancy-k at 2024-11-21T23:51:43
