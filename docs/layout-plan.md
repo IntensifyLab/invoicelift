@@ -23,3 +23,5 @@
 | `backend` | Fastify — integrations, optional server-side signing gateway |
 
 See also `docs/SITE_MAP.md` for the web route backlog.
+
+<!-- Contribution check by oluwagbemiga at 2024-12-05T17:47:35 -->
