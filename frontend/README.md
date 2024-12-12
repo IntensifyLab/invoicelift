@@ -223,3 +223,5 @@ Match repository license (Apache-2.0 common for OSS grants).
 **npm package:** `invoicelift-web` · **Slug:** `invoicelift` · **Stack:** Next.js App Router
 
 **Ship it.** 🚀
+
+<!-- Contribution check by alexdev99 at 2024-12-12T14:45:31 -->
