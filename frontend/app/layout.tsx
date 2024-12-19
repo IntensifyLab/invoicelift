@@ -65,3 +65,5 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     </html>
   );
 }
+
+// Contribution check by johndoedev at 2024-12-19T11:43:26
