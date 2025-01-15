@@ -14,3 +14,5 @@ export function BrandLogo({ className }: { className?: string }) {
     </svg>
   );
 }
+
+// Contribution check by oluwagbemiga at 2025-01-15T23:35:10
