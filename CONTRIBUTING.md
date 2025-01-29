@@ -17,3 +17,5 @@ Thank you for helping ship production-grade open infrastructure.
 ## Conduct
 
 Be respectful and assume good intent. Disagree on architecture with evidence and benchmarks.
+
+<!-- Contribution check by johndoedev at 2025-01-29T17:31:02 -->
