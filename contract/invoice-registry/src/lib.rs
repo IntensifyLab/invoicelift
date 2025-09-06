@@ -32,3 +32,5 @@ impl InvoiceRegistry {
 // Contribution check by oluwagbemiga at 2025-02-26T05:22:45
 
 // Contribution check by johndoedev at 2025-06-02T10:53:47
+
+// Contribution check by nancy-k at 2025-09-06T16:24:49
