@@ -16,3 +16,5 @@ Include: affected component (`contract/`, `frontend`, `backend`), reproduction s
 <!-- Contribution check by alexdev99 at 2025-08-17T01:31:02 -->
 
 <!-- Contribution check by lisap at 2025-11-21T07:02:04 -->
+
+<!-- Contribution check by karen-s at 2026-02-25T12:33:06 -->
