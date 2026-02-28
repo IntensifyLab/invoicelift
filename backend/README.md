@@ -227,3 +227,5 @@ Match the repository license (Apache-2.0 suggested for OSS grants — confirm pe
 <!-- Contribution check by sambuilder at 2025-08-20T11:59:59 -->
 
 <!-- Contribution check by robert-j at 2025-11-24T17:31:02 -->
+
+<!-- Contribution check by james-t at 2026-02-28T23:02:04 -->
